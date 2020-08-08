@@ -1,4 +1,0 @@
-Final Cut Pro X
-
-
-
