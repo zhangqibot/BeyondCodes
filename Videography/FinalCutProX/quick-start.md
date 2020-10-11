@@ -22,10 +22,6 @@
 
 L向前，K暂停，J回退，LL加速。
 
-
-
-
-
 修剪工具T：固定时间窗内拖动
 
 ![image-20200522235017614](pics/image-20200522235017614.png)
@@ -48,23 +44,11 @@ Q添加视频到时间线
 
 option+command+delete  删除选中的，忽略附属的。B-roll
 
-
-
 ![image-20200523000022169](pics/image-20200523000022169.png)
 
 
 
-
-
-
-
-
-
-
-
 速度变化。
-
-
 
 
 
@@ -108,12 +92,6 @@ command+T添加转场。双击也可以
 
 
 
-
-
-
-
-
-
 导出：command+E
 
 如果要去别的软件继续编辑，如达芬奇，选prores
@@ -138,5 +116,9 @@ command+T添加转场。双击也可以
 
 [快速入门 Final Cut Pro X，0 门槛高效率剪辑视频](https://www.youtube.com/watch?v=3pGGTkeazH0)
 
-https://www.youtube.com/watch?v=He2KrjrXwKU&list=PLPGawU13YdgW0AEKs8bs7rjzxTrAoH_vD
+[冬谷24-final-cut-pro-x系列](https://www.youtube.com/watch?v=He2KrjrXwKU&list=PLPGawU13YdgW0AEKs8bs7rjzxTrAoH_vD)
+
+
+
+
 
